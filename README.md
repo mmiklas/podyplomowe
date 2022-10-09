@@ -1,2 +1,2 @@
 # podyplomowe
-To jest repozytorium do obowiązkowego labaoratorium z Git'a
+*To jest repozytorium do obowiązkowego labaoratorium z Git'a*
